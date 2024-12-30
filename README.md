@@ -1,10 +1,12 @@
 # Simple Convolutional Neural Network for Classification
 
+---
 ## Project Overview
-This project was completed as partial requirement for the course module EN3150 - Pattern Recognition; this project implements a basic Convolutional Neural Network (CNN) for image classification tasks. 
+This project implements a basic Convolutional Neural Network (CNN) for image classification tasks. 
 It compares the performance of the custom CNN with state-of-the-art models like ResNet50 and VGG16.
+---
 
-## Features
+## Contents
 - Implementation of custom CNN with fully connected layers towards the end.
   ![image](https://github.com/user-attachments/assets/d1a33e93-3ec7-44a1-abdc-17a84d976114)
 - Implementation of ResNet50 and VGG16 for comparison.
@@ -16,3 +18,8 @@ It compares the performance of the custom CNN with state-of-the-art models like 
 
 ## Frameworks
 TensorFlow
+
+---
+## Acknowledgments
+This project was completed as partial requirement for the course module EN3150 - Pattern Recognition.
+---
